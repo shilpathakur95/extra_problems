@@ -1,0 +1,8 @@
+1.)Adding of two number from the left side
+2.)Print all permutations of a given string
+3.)Return the size of an array (which is in ascending order upto n then n+1 th 
+   element is a value less than n and there after the array conatins n 0's)
+4.)Given a number convert it into in binary form by taking base -2
+5.)Input 2 arrays convert to binary to form large nmber then 
+   multiply the large numbers and return the product in the form of an array
+6.)Given an Octal number convert it to Binary
