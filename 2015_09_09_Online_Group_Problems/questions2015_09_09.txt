@@ -1,0 +1,4 @@
+1.Min Rank of a given number:Given an unsigned integer as input,find the index of the integer(index starts from 0)in all permutations of the number,sorted in ascending order.
+2.Print the entered date in words
+3.Given 3 unsigned integers as input X,Y,Z. FInd X to the power Y modulo Z.
+4.Mutiply two numbers without using * and + operator
