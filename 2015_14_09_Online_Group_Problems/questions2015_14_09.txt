@@ -1,0 +1,7 @@
+1.Given an array of structure having students' details, display the details for the given student id
+2.Given a sentence return the array of words
+3.Given an array of integers. Return two integers whose difference is closest to zero.
+4.Given an array of integers. Return the maximum and minimum of that array.
+5.Multiplication of two matrices
+6.Performing string handling operations on the given strings(strlen,strcat,strcmp,strsub,trim)
+7.Given a string and a delimiter,return the tokens
