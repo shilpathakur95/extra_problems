@@ -1,0 +1,4 @@
+1.)Sort an array of 0s and 1's
+2.)Given an array return the array which will have the value as the product of all the values in the array except itself
+3.)Find the min rank of a given number.
+4.)Compute the value of x * y % a
