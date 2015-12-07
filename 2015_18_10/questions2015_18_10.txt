@@ -1,0 +1,6 @@
+1)Given a six digit number if you multiply by 2 the product should have same digits in it as the orignal number
+2)Given a six digit number if you multiply by any number(2-7) the product should have same digits in it as the 
+   orignal number
+3)Given a number convert it into binary form by taking the base as fibnocii series
+4)Given an array of unsigned integers and window size identify the winner element index.Winner element : Largest sum in the array including its left and right and itself as suggested by the window size
+5)Given an array of elements, find the winner element: if there are k or more occurrences of that digit. If there are less than k occurances convert others digits such that cost of convention is least. Find cost
