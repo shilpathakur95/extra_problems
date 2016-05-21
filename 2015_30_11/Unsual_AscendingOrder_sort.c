@@ -44,6 +44,7 @@ void sort(struct node *head)
 {
 	struct node *temp=head;
 	struct node *num1=NULL;
+	struct node *num2 = NULL;
 	int count = 1;
 	while (temp->next!=NULL)
 	{
@@ -54,16 +55,18 @@ void sort(struct node *head)
 		}
 		else if (temp->next->data < temp->data&&count == 2)
 		{
-			temp = temp->next;
+			num2 = temp->next;
 			break;
 		}
 		temp = temp->next;
 	}
 	if (num1 == NULL)
 		return;
+	if (num2 == NULL)
+		num2 = temp->next;
 	count = num1->data;
-	num1->data = temp->data;
-	temp->data = count;
+	num1->data = num2->data;
+	num2->data = count;
 }
 void display(struct node *head1)
 {
